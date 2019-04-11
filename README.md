@@ -1,2 +1,2 @@
-# medium-python
+# Adebot
 Discord.py dump center.
